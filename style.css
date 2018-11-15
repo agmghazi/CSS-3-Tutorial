@@ -25,3 +25,12 @@ h2{ font-size: 60px;
   {
   font-size: 50px;
   }
+
+  section
+  {
+      font-size: 40px;
+      background-image: url(img/cat.jpg);
+      background-repeat: no-repeat;
+      background-attachment: local; 
+      background-position: center;
+  }
