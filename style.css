@@ -33,4 +33,8 @@ h2{ font-size: 60px;
       background-repeat: no-repeat;
       background-attachment: local; 
       background-position: center;
+
+      border-style: dashed;
+      border-width: 5px;
+      border-color:wheat;
   }
