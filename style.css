@@ -188,9 +188,31 @@ padding-left: 60px;
     width: 200px;
     height: 200px;
     background-color: #f39c12;
-    -webkit-animation: myfirst 10s; 
-    animation: myfirst 10s;
+    -webkit-animation: myfirst 5s; 
+    animation: myfirst 5s;
+    position: relative;
 }
+
+@-webkit-keyframes myfirst
+{
+ 0% {background: #f1c40f; left: 0px; top: 0px;}
+ 25% {background: #e74c3c; left: 400px; top: 0px;}
+ 50% {background: #1abc1a; left: 300px; top: 400px;}
+ 75% {background: #e74c3c; left: 0px; top: 300px;}
+ 100% {background: #34495e; left: 0px; top: 0px;}
+
+}
+ @keyframes myfirst
+{
+    0% {background: #f1c40f; left: 0px; top: 0px;}
+    25% {background: #e74c3c; left: 400px; top: 0px;}
+    50% {background: #1abc1a; left: 300px; top: 400px;}
+    75% {background: #e74c3c; left: 0px; top: 300px;}
+    100% {background: #34495e; left: 0px; top: 0px;}
+   
+}
+
+/*
     @-webkit-keyframes myfirst
     {
      from {background: #f39c12;}
@@ -202,4 +224,9 @@ padding-left: 60px;
      to {background: #2c3e50;}
     
     }
-    
+    */
+    #mysize
+    {
+    width: 900px;
+    height: 400px;
+    }
