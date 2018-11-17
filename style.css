@@ -243,3 +243,19 @@ padding-left: 60px;
 
 
     }
+
+    #mytranstion
+    {
+        width: 100px;
+        height: 200px;
+        background:  #e74c3c;
+        -webkit-transtion: width 2s ;
+        transition: width 10s ;
+
+    }
+    #mytranstion:hover
+    {
+        width: 600px;
+       
+
+    }
