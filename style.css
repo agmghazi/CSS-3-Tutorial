@@ -182,3 +182,24 @@ padding-left: 60px;
 {
     background-color: #e74c3c;
 }
+
+#myani
+{
+    width: 200px;
+    height: 200px;
+    background-color: #f39c12;
+    -webkit-animation: myfirst 10s; 
+    animation: myfirst 10s;
+}
+    @-webkit-keyframes myfirst
+    {
+     from {background: #f39c12;}
+     to {background: #2c3e50;}
+    }
+     @keyframes myfirst
+    {
+     from {background: #f39c12;}
+     to {background: #2c3e50;}
+    
+    }
+    
