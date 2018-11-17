@@ -161,3 +161,24 @@ nav
     background-color: #e74c3c;
     margin-bottom: 36px;
 }
+
+table
+{
+    margin: auto;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+table,th,td
+{
+border: 4px solid #e74c3c;
+
+border-collapse: collapse;
+padding: 30px;
+padding-right: 60px;
+padding-left: 60px;
+
+}
+#mytr
+{
+    background-color: #e74c3c;
+}
