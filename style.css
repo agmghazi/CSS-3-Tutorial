@@ -60,4 +60,12 @@ body
     font-variant: initial;
     font-weight: bold;
     line-height: 50px;
+
+     /* space with selector and browser page */ 
+    margin: 20px; 
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    /* margin 20=top , 30=botton  , 40=right  ,50=left */
+ /*   margin: 20px 30px 40 px 50px; */
 }
