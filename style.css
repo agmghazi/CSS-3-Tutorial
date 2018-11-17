@@ -23,7 +23,7 @@ h2{ font-size: 60px;
   
   p,div  /* this is for group selector */
   {
-  font-size: 50px;
+  font-size: 20px;
   }
 
   section
@@ -74,4 +74,20 @@ body
 #myOpic
 {
     opacity: 0.5;
+}
+p.myph
+{
+   background-color: antiquewhite;
+   color: brown;
+   width: 600px;
+   height: 600px;
+   overflow:scroll 
+}
+p.myph2
+{
+    background-color: chartreuse;
+    color: brown;
+    width: 600px;
+    height: 600px;
+    overflow:auto; 
 }
