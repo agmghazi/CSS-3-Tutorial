@@ -86,7 +86,7 @@ p.myph
    color: brown;
    width: 600px;
    height: 600px;
-   overflow:scroll 
+   overflow:scroll
 }
 p.myph2
 {
@@ -95,4 +95,33 @@ p.myph2
     width: 600px;
     height: 600px;
     overflow:auto; 
+}
+
+a{
+    font-size: 20px;
+    background-color:blue;
+    color: aquamarine;
+    padding: 12px;
+    font-family: fantasy;
+    text-decoration: none;
+}
+a:link{
+    font-size: 30px;
+    color:lightsalmon;
+}
+a:visited
+{
+    color: blueviolet;
+   
+}
+a:hover
+{
+    color: brown;
+}
+
+a:active
+{
+    color:blanchedalmond;
+    font-size: 60px;
+    
 }
