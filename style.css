@@ -38,3 +38,10 @@ h2{ font-size: 60px;
       border-width: 5px;
       border-color:wheat;
   }
+  #mydis
+  {
+      font-size: 20px;
+     /*display: inline; */
+    /* display: run-in; */
+    display: inline-block;
+  }
