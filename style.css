@@ -51,3 +51,13 @@ h2{ font-size: 60px;
     color: aquamarine;
     background-color: cornsilk;
   }
+
+body
+{
+   /* font-family: Consolas; */
+    font-family: monospace;
+    font-style: italic;
+    font-variant: initial;
+    font-weight: bold;
+    
+}
