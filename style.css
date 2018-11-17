@@ -125,3 +125,9 @@ a:active
     font-size: 60px;
     
 }
+nav
+{
+    position: fixed; 
+   /* position: relative; */
+   /* position: absolute; */
+}
