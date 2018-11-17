@@ -29,7 +29,7 @@ h2{ font-size: 60px;
   section
   {
       font-size: 40px;
-      background-image: url(img/cat.jpg);
+     /* background-image: url(img/cat.jpg);*/
       background-repeat: no-repeat;
       background-attachment: local; 
       background-position: center;
@@ -143,4 +143,21 @@ nav
     position: fixed; 
    /* position: relative; */
    /* position: absolute; */
+}
+#myimg
+{
+   /*
+    border-radius: 36px;
+    padding:26px;
+    border: 6px solid #555555;
+   this resposive like bootstrap
+    max-width: 70%;
+    height: auto;
+    display: block; 
+    */
+    /* this is for shadow*/
+    width: 70%;
+    box-shadow: 10px 15px 8px 3px;
+    background-color: #e74c3c;
+    margin-bottom: 36px;
 }
