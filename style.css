@@ -68,4 +68,10 @@ body
     margin-bottom: 20px;
     /* margin 20=top , 30=botton  , 40=right  ,50=left */
  /*   margin: 20px 30px 40 px 50px; */
+ 
+}
+
+#myOpic
+{
+    opacity: 0.5;
 }
