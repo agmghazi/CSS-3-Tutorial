@@ -45,3 +45,9 @@ h2{ font-size: 60px;
     /* display: run-in; */
     display: inline-block;
   }
+  #myfloat
+  {
+    /*   float: left;  */
+    color: aquamarine;
+    background-color: cornsilk;
+  }
