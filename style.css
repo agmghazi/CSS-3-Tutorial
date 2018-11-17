@@ -230,3 +230,16 @@ padding-left: 60px;
     width: 900px;
     height: 400px;
     }
+
+    #mygradiant
+    {
+    width: 100px;
+    height: 200px;
+
+    background: -webkit-linear-gradient#34495e,(#e74c3c, #1abc1a);
+    background: -o-webkit-linear-gradient(#34495e,#e74c3c, #1abc1a);
+    background: -moz-webkit-linear-gradient(#34495e,#e74c3c, #1abc1a);
+    background: linear-gradient(#34495e,#e74c3c, #1abc1a);
+
+
+    }
