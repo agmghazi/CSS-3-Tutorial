@@ -79,6 +79,19 @@ body
 #myOpic
 {
     opacity: 0.5;
+    vertical-align: text-top;
+
+}
+#sec1
+{
+    width: 300px;
+    height: 300px;
+    word-wrap: break-word;
+    outline: 10px dotted green;
+    outline-color: burlywood;
+    outline-offset: 12px;
+    outline-style: dotted;
+   /* visibility: hidden;  */
 }
 p.myph
 {
